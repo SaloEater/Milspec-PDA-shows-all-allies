@@ -1,5 +1,5 @@
 <string_table>
-	<string id="ui_mcm_milpda_milpdagen_allies_mode">
+    <string id="ui_mcm_milpda_milpdagen_allies_mode">
         <text>Какие союзные фракции будут видны на карте</text>
     </string>
     <string id="ui_mcm_lst_milpda_allies_mode_faction">
