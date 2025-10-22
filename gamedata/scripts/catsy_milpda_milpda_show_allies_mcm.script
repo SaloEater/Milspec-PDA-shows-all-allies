@@ -5,7 +5,7 @@ function on_mcm_load()
                     id = "allies_mode", 
                     type = "list", 
                     val = 2, 
-                    def = 0,
+                    def = 1,
                     content = {
                         {0,"milpda_allies_mode_faction"},
                         {1,"milpda_allies_mode_personal"}
